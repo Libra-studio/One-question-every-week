@@ -1,9 +1,10 @@
-# One question every ~~day~~ week
+# One question every week
 
 每周一道题，强壮打工人
 
 每周一道前端面试题，一年后再回头，会感谢曾经努力的自己！
 
+所有问题答案 同步更新在：https://libra-studio-one-question-every-week.gitblog.xyz/
 
 
 ## 规则
